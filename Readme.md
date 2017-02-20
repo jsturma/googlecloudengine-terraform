@@ -26,3 +26,5 @@ If you want to customize some variables. Create a file `terraform.tfvars`
 region="<region_name>"
 ...
 ```
+
+Enjoy !
