@@ -1,3 +1,5 @@
 # Compiled files
 *.tfstate
 *.tfstate.backup
+°/terraform.tfvars
+.idea
