@@ -1,7 +1,5 @@
 provider "google" {
-  project = "${var.projectf_id}"
   region      = "${var.region}"
-  credentials = "${file("../../key.json")}"
 }
 
 
