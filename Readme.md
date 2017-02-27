@@ -2,7 +2,10 @@
 
 This project describe how to manage Google Cloud Engine infrastructure with Terraform.
 
-For the moment there is just one example, a network with a compute instance (nginx inside) and a firewall which allows to 80 and 22 ports.
+For the moment there two examples: 
+
+* A network with a compute instance (nginx inside) and a firewall which allows to 80 and 22 ports.
+* A GKE cluster with 2 nodes
 
 ## Deployment
 
