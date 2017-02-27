@@ -16,7 +16,7 @@ export GOOGLE_CLOUD_KEYFILE_JSON=$(cat <your_exported_key_as_json)
 ```
 
 
-The go to the example that you want to instanciate and do :
+Go to the example that you want to instanciate and do :
 `terraform plan` or `terraform apply`
 
 
